@@ -121,7 +121,7 @@ h1 {
 ul {
   display:flex;
   flex-direction: row;
-  align-items: center;
+  align-items:center;
   margin-top: 15px;
   margin-right:10px;
   
@@ -144,3 +144,4 @@ li {
 }
  }
 
+/*Project completed with a score of 10/10 */ 
